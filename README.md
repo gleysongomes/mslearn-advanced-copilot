@@ -1,4 +1,4 @@
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MicrosoftDocs/mslearn-advanced-copilot)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/gleysongomes/mslearn-advanced-copilot)
 
 # Apply advanced GitHub Copilot techniques
 Discover new ways to leverage advanced GitHub Copilot techniques within a Python repository to implement an interactive HTML form and an Application Programming Interface (API) endpoint. 
@@ -8,7 +8,7 @@ Gain more practical experience by using this repository that contains a Python W
 ## Requirements
 
 1. Enable your [GitHub Copilot service](https://github.com/github-copilot/signup)
-1. Open [this repository with Codespaces](https://codespaces.new/MicrosoftDocs/mslearn-copilot-codespaces-python)
+1. Open [this repository with Codespaces](https://codespaces.new/gleysongomes/mslearn-copilot-codespaces-python)
 
 ## 💪🏽 Exercise
 The current API is not exposing country/{country} which needs to be implemented to list cities. The route should allow only GET HTTP requests with a JSON response providing information from the historical high and low for that country, city, and given month.
